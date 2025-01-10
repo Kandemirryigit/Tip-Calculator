@@ -5,7 +5,7 @@
 
 
 -the final project looks like this.
--ı used https://ascii.co.uk/art to create logo of "TİP CALCULATOR" 
+-ı used https://patorjk.com/software/taag/#p=display&f=Ogre&t= to create logo of "TIP CALCULATOR" 
 -The main idea of project is operation the total pay and find how much money each person will pay.
 
 
